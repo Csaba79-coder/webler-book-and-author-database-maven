@@ -1,5 +1,7 @@
 package hu.webler.entity;
 
+import hu.webler.base.Identifier;
+
 import java.util.List;
 
 public class Author extends Identifier {

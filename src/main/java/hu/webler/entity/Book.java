@@ -1,5 +1,7 @@
 package hu.webler.entity;
 
+import hu.webler.base.Identifier;
+
 public class Book extends Identifier {
 
     private String title;
