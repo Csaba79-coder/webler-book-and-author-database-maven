@@ -1,4 +1,4 @@
-package hu.webler.entity;
+package hu.webler.base;
 
 public class Identifier {
 
